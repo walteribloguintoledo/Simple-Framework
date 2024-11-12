@@ -1,7 +1,9 @@
 # Simple Framework
 **SMPL Framework (Web Development Framework)**
 
-Lightweight, easy to learn web development programming tool. It uses a very simple and easy to understand tools and programming languages. What to learn web development easily? Simple Framework works in any platform via Desktop or Mobile you can easily develop simple and complex application and systems.  It emphasis on simplicity and rapid development rather than infinite flexibility and features. Helps you quickly write simple yet powerful web applications and APIs.
+Simplified language inspired by PHP, aimed at compact syntax and efficient coding practices. This version was an attempt to improve PHP-like functionality with a unique approach to syntax and string handling. 
+
+A lightweight, easy to learn web development programming tool. It uses a very simple and easy to understand tools and programming languages. What to learn web development easily? Simple Framework works in any platform via Desktop or Mobile you can easily develop simple and complex application and systems.  It emphasis on simplicity and rapid development rather than infinite flexibility and features. Helps you quickly write simple yet powerful web applications and APIs.
 
 *HTML5, Bootstrap 5 (CSS), JavaScript, JQuery, MustacheJS, PathJS, Slim Framework (PHP), MySQL, Idiorm (ORM)*
 
